@@ -38,7 +38,7 @@ The easiest way to run the tool without installing anything else.
 2.  **Clone & Run**:
     ```bash
     git clone https://github.com/tdinh/exam-downloader
-    cd examtopics-downloader
+    cd exam-downloader
     go run ./cmd/main.go -p google -s devops
     ```
 

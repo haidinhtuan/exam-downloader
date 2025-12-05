@@ -6,8 +6,8 @@ import (
 	"log"
 	"os"
 
-	"examtopics-downloader/internal/fetch"
-	"examtopics-downloader/internal/utils"
+	"exam-downloader/internal/fetch"
+	"exam-downloader/internal/utils"
 )
 
 func main() {

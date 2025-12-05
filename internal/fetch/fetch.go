@@ -11,9 +11,9 @@ import (
 	"strings"
 	"sync"
 
-	"examtopics-downloader/internal/constants"
-	"examtopics-downloader/internal/models"
-	"examtopics-downloader/internal/utils"
+	"exam-downloader/internal/constants"
+	"exam-downloader/internal/models"
+	"exam-downloader/internal/utils"
 
 	"github.com/PuerkitoBio/goquery"
 )

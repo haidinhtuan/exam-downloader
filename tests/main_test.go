@@ -8,9 +8,9 @@ import (
 	"strings"
 	"testing"
 
-	"examtopics-downloader/internal/fetch"
-	"examtopics-downloader/internal/models"
-	"examtopics-downloader/internal/utils"
+	"exam-downloader/internal/fetch"
+	"exam-downloader/internal/models"
+	"exam-downloader/internal/utils"
 )
 
 var links []models.QuestionData

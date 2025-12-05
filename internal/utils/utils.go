@@ -1,7 +1,7 @@
 package utils
 
 import (
-	"examtopics-downloader/internal/models"
+	"exam-downloader/internal/models"
 	"fmt"
 	"math/rand"
 	"net/http"

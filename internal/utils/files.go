@@ -3,7 +3,7 @@ package utils
 import (
 	"bufio"
 	"bytes"
-	"examtopics-downloader/internal/models"
+	"exam-downloader/internal/models"
 	"fmt"
 	"log"
 	"os"

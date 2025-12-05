@@ -1,0 +1,35 @@
+# Binaries
+/bin/
+/dist/
+*.exe
+*.dll
+*.so
+*.dylib
+exam-downloader
+examtopics-dl
+
+# Output Files
+*.html
+*.pdf
+*.txt
+examtopics_output.md
+
+# Go workspace
+go.work
+vendor/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Context
+GEMINI.md
+
+# Temporary
+tmp/
